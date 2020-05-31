@@ -6,7 +6,7 @@ Created on Sat May  9 00:13:00 2020
 """
 
 # import libraries
-from instabot import Bot #for posting on instagram
+from instabot import Bot #instagram bot library
 from selenium import webdriver #web-scrapping library
 import random
 from PIL import Image #imaging library
